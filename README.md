@@ -58,17 +58,16 @@ Clusters were grouped into four distinct categories based on song features:
 
 4.  **Cluster 4:** Calm, atmospheric genres (e.g., 'ambient,' 'classical').
 
+<img src="images/Heatmap_mean_feature_vales.png" alt="Heatmap" width="55%"/>
+
 ### Popularity and Size
 
 -   Cluster 2 and Cluster 3 contained more popular songs.
 
 -   Cluster 4 had the smallest number of songs and the least popularity.
 
-
-<p align="center">
   <img src="images/3d_scatter_PCA.png" alt="3D PCA" width="45%"/>
-  <img src="images/Heatmap_mean_feature_vales.png" alt="Heatmap" width="55%"/>
-</p>
+
 ------------------------------------------------------------------------
 
 ## Key Findings and Insights
