@@ -67,7 +67,7 @@ Clusters were grouped into four distinct categories based on song features:
 
 <p align="center">
   <img src="images/3d_scatter_PCA.png" alt="3D PCA" width="45%"/>
-  <img src="images/Heatmap_mean_feature_vales.png" alt="Heatmap" width="45%"/>
+  <img src="images/Heatmap_mean_feature_vales.png" alt="Heatmap" width="55%"/>
 </p>
 ------------------------------------------------------------------------
 
