@@ -14,13 +14,9 @@ This project make a visual representation of the diversity of songs defined in t
 
 ### Preprocessing
 
--   Removed redundant index column ('Unnamed:0\').
-
 -   Dropped duplicates and missing values.
-
--   Encoded categorical attributes into integers and standardized numerical features for uniformity.
-
--   Randomly sampled 10,000 tracks for analysis.
+-   Encoded categorical attributes for uniformity.
+-   Random sampling of 10,000 tracks for analysis.
 
 ------------------------------------------------------------------------
 
