@@ -65,9 +65,10 @@ Clusters were grouped into four distinct categories based on song features:
 -   Cluster 4 had the smallest number of songs and the least popularity.
 
 
-<img src="images/3d_scatter_PCA.png" alt="3D_PCA" width="400"/>
-<img src="images/Heatmap_mean_feature_vales.png" alt="Heatmap" width="400"/>
-
+<p align="center">
+  <img src="images/3d_scatter_PCA.png" alt="3D PCA" width="45%"/>
+  <img src="images/Heatmap_mean_feature_vales.png" alt="Heatmap" width="45%"/>
+</p>
 ------------------------------------------------------------------------
 
 ## Key Findings and Insights
